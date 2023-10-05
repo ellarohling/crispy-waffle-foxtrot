@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap');
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZB-B79vdJnbb09EKLxd2Np_IjmmS-sX3nw&usqp=CAU')}
+h2{
+  font-family: 'Arial';
+}
+/* h3, */
+/* label, */
+p {
+  background-color: #fff;
+}
+
+.header{
+  text-align: center;
+  font-size:x-large;
+}
+.maintxt {
+  position: relative;
+}
+.maintxt > img,
+.overlay-text {
+  position:relative;
+}
+
+.card {
+  margin: auto;
+  text-align: center;
+}
+
+
+/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
